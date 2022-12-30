@@ -7,7 +7,7 @@ function getRandomInt(min, max) {
 const generateComment = () => {
     return {
         id: 2,
-        messade: "Круто",
+        message: "Круто",
         user: {
             avatar: './img/avatars/1.svg',
             name: "Дима",
